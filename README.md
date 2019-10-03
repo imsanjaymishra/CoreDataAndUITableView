@@ -1,4 +1,4 @@
-# CoreDataAndUITableView
+# CoreData And UITableView
 Implementation of Local storage, fetching data to show in UITableView.
 
 Table view will reloadData based on segment control index.
